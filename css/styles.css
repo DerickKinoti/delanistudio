@@ -1,4 +1,4 @@
-aboutbody {
+body {
     text-align: center;
     font-family: 'Oswald', serif;
   }
@@ -81,7 +81,7 @@ aboutbody {
     color: aliceblue;
     padding: 100px;
   }
-  .whatwedo-sec {
+  .whatwedo {
     padding: 100px;
     text-align: center;
   }
@@ -102,7 +102,7 @@ aboutbody {
     justify-content: center;
   }
 
-  .portfolio-sec {
+  .portfolio {
     padding: 100px;
     margin: 200px;
   }
@@ -113,7 +113,7 @@ aboutbody {
   }
 
   /*CONTACT*/
-  .contact-sec {
+  .contact {
     padding: 100px;
     height: 600px;
     background-image: url(../assets/backgrounds/c_image.jpg);
@@ -141,7 +141,7 @@ aboutbody {
   }
 
   /*FOOTER*/
-  .footer-sec {
+  .footer {
     padding: 100px;
   }
 
